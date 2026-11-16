@@ -39,7 +39,7 @@ Artigos publicados no IEEE sobre colaboração entre design e engenharia: CHIuXi
 ---
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>🌎 English version</summary>
 
 ### Hi, I'm Bárbara 👋
 
